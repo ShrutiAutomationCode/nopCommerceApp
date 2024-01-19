@@ -1,0 +1,253 @@
+01/18/2024 07:57:59PM - root - INFO - ***************Test_001_Login******************
+01/18/2024 07:57:59PM - root - INFO - ***************Verifying HomePage******************
+01/18/2024 07:58:00PM - root - INFO - *************** HomePage test cases passed ******************
+01/18/2024 07:58:02PM - root - INFO - ***************Test_001_Login******************
+01/18/2024 07:58:02PM - root - INFO - ***************Verifying LoginTest******************
+01/18/2024 07:58:06PM - root - INFO - *************** Login test cases Passed ******************
+01/18/2024 08:03:33PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 08:03:35PM - root - INFO - ************* Login succesful **********
+01/18/2024 08:03:35PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 08:12:56PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 08:12:58PM - root - INFO - ************* Login succesful **********
+01/18/2024 08:12:58PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 08:20:35PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 08:20:37PM - root - INFO - ************* Login succesful **********
+01/18/2024 08:20:37PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:28:58PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 11:29:01PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:29:01PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:29:02PM - root - INFO - ************* Providing customer info **********
+01/18/2024 11:32:49PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 11:32:51PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:32:51PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:32:53PM - root - INFO - ************* Providing customer info **********
+01/18/2024 11:37:10PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 11:37:12PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:37:12PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:37:40PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 11:37:42PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:37:42PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:37:44PM - root - INFO - ************* Providing customer info **********
+01/18/2024 11:37:54PM - root - INFO - ************* Saving customer info **********
+01/18/2024 11:37:54PM - root - INFO - ********* Add customer validation started *****************
+01/18/2024 11:40:03PM - root - INFO - ************* Test_003_AddCustomer **********
+01/18/2024 11:40:05PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:40:05PM - root - INFO - ******* Starting Add Customer Test **********
+01/18/2024 11:40:06PM - root - INFO - ************* Providing customer info **********
+01/18/2024 11:40:17PM - root - INFO - ************* Saving customer info **********
+01/18/2024 11:40:17PM - root - INFO - ********* Add customer validation started *****************
+01/18/2024 11:40:17PM - root - INFO - ********* Add customer Test Passed *********
+01/18/2024 11:40:18PM - root - INFO - ******* Ending Add customer test **********
+01/18/2024 11:41:10PM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/18/2024 11:41:12PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:41:12PM - root - INFO - ******* Starting Search Customer By Email **********
+01/18/2024 11:42:32PM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/18/2024 11:42:34PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:42:34PM - root - INFO - ******* Starting Search Customer By Email **********
+01/18/2024 11:42:35PM - root - INFO - ************* searching customer by emailID **********
+01/18/2024 11:50:52PM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/18/2024 11:50:54PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:50:54PM - root - INFO - ******* Starting Search Customer By Email **********
+01/18/2024 11:50:55PM - root - INFO - ************* searching customer by emailID **********
+01/18/2024 11:53:02PM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/18/2024 11:53:04PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:53:04PM - root - INFO - ******* Starting Search Customer By Email **********
+01/18/2024 11:53:05PM - root - INFO - ************* searching customer by emailID **********
+01/18/2024 11:53:10PM - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01/18/2024 11:53:32PM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/18/2024 11:53:34PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:53:34PM - root - INFO - ******* Starting Search Customer By Email **********
+01/18/2024 11:53:35PM - root - INFO - ************* searching customer by emailID **********
+01/18/2024 11:53:41PM - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01/18/2024 11:55:03PM - root - INFO - ************* SearchCustomerByName_005 **********
+01/18/2024 11:55:05PM - root - INFO - ************* Login succesful **********
+01/18/2024 11:55:05PM - root - INFO - ******* Starting Search Customer By Name **********
+01/18/2024 11:55:08PM - root - INFO - ************* searching customer by Name **********
+01/18/2024 11:55:13PM - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+01/19/2024 12:09:01AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:09:03AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:09:03AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:09:21AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:09:23AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:09:23AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:09:24AM - root - INFO - ************* searching customer by emailID **********
+01/19/2024 12:09:30AM - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01/19/2024 12:23:36AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:23:37AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:23:37AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:30:43AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:30:45AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:30:45AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:30:46AM - root - INFO - ************* searching customer by emailID **********
+01/19/2024 12:31:59AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:32:01AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:32:01AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:32:02AM - root - INFO - ************* searching customer by emailID **********
+01/19/2024 12:32:48AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:32:50AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:32:50AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:33:21AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:33:23AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:33:23AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:33:24AM - root - INFO - ************* searching customer by emailID **********
+01/19/2024 12:35:05AM - root - INFO - ************* SearchCustomerByEmail_004 **********
+01/19/2024 12:35:10AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:35:10AM - root - INFO - ******* Starting Search Customer By Email **********
+01/19/2024 12:35:12AM - root - INFO - ************* searching customer by emailID **********
+01/19/2024 12:35:51AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:35:53AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:35:53AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:37:27AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:37:29AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:37:29AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:37:32AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:40:17AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:40:19AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:40:19AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:40:27AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:46:50AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:46:53AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:46:53AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:47:01AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:48:00AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:48:02AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:48:02AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:48:10AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:49:14AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:49:17AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:49:17AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:49:24AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:54:37AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:54:40AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:54:40AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:54:48AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:55:35AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 12:55:37AM - root - INFO - ************* Login succesful **********
+01/19/2024 12:55:37AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 12:55:45AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 12:55:51AM - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+01/19/2024 01:29:53AM - root - INFO - ************* SearchCustomerByName_005 **********
+01/19/2024 01:29:55AM - root - INFO - ************* Login succesful **********
+01/19/2024 01:29:55AM - root - INFO - ******* Starting Search Customer By Name **********
+01/19/2024 01:30:03AM - root - INFO - ************* searching customer by Name **********
+01/19/2024 01:42:27AM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:42:27AM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:42:27AM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:42:27AM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:42:29AM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:42:31AM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:13:14PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:13:14PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:13:14PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:13:14PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:13:14PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:13:16PM - root - INFO - ************* Login successful **********
+01/19/2024 01:13:16PM - root - INFO - ************* Login successful **********
+01/19/2024 01:13:16PM - root - INFO - ************* Login successful **********
+01/19/2024 01:13:16PM - root - INFO - ************* Login successful **********
+01/19/2024 01:13:16PM - root - INFO - ************* Login successful **********
+01/19/2024 01:13:16PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:13:16PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:13:16PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:13:16PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:13:16PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:14:12PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:12PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:12PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:12PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:12PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:12PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:14:12PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:14:12PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:14:12PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:14:12PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:14:13PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:14:13PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:14:13PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:14:13PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:14:13PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:14:15PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:15PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:15PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:15PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:15PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:14:15PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:14:15PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:14:15PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:14:15PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:14:15PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:14:19PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:14:19PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:14:19PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:14:19PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:14:19PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:43:48PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:43:48PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:43:48PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:43:48PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:43:48PM - root - INFO - ************* Test_003_AddCustomer **********
+01/19/2024 01:43:50PM - root - INFO - ************* Login successful **********
+01/19/2024 01:43:50PM - root - INFO - ************* Login successful **********
+01/19/2024 01:43:50PM - root - INFO - ************* Login successful **********
+01/19/2024 01:43:50PM - root - INFO - ************* Login successful **********
+01/19/2024 01:43:50PM - root - INFO - ************* Login successful **********
+01/19/2024 01:43:50PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:43:50PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:43:50PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:43:50PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:43:50PM - root - INFO - ******* Starting Add Customer Test **********
+01/19/2024 01:43:52PM - root - INFO - ************* Providing customer info **********
+01/19/2024 01:43:52PM - root - INFO - ************* Providing customer info **********
+01/19/2024 01:43:52PM - root - INFO - ************* Providing customer info **********
+01/19/2024 01:43:52PM - root - INFO - ************* Providing customer info **********
+01/19/2024 01:43:52PM - root - INFO - ************* Providing customer info **********
+01/19/2024 01:44:03PM - root - INFO - ************* Saving customer info **********
+01/19/2024 01:44:03PM - root - INFO - ************* Saving customer info **********
+01/19/2024 01:44:03PM - root - INFO - ************* Saving customer info **********
+01/19/2024 01:44:03PM - root - INFO - ************* Saving customer info **********
+01/19/2024 01:44:03PM - root - INFO - ************* Saving customer info **********
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer validation started *****************
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer validation started *****************
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer validation started *****************
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer validation started *****************
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer validation started *****************
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer Test Passed *********
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer Test Passed *********
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer Test Passed *********
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer Test Passed *********
+01/19/2024 01:44:03PM - root - INFO - ********* Add customer Test Passed *********
+01/19/2024 01:44:03PM - root - INFO - ******* Ending Add customer test **********
+01/19/2024 01:44:03PM - root - INFO - ******* Ending Add customer test **********
+01/19/2024 01:44:03PM - root - INFO - ******* Ending Add customer test **********
+01/19/2024 01:44:03PM - root - INFO - ******* Ending Add customer test **********
+01/19/2024 01:44:03PM - root - INFO - ******* Ending Add customer test **********
+01/19/2024 01:44:05PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:05PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:05PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:05PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:05PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:05PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:44:05PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:44:05PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:44:05PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:44:05PM - root - INFO - ***************Verifying HomePage******************
+01/19/2024 01:44:06PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:44:06PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:44:06PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:44:06PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:44:06PM - root - INFO - *************** HomePage test cases passed ******************
+01/19/2024 01:44:08PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:08PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:08PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:08PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:08PM - root - INFO - ***************Test_001_Login******************
+01/19/2024 01:44:08PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:44:08PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:44:08PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:44:08PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:44:08PM - root - INFO - ***************Verifying LoginTest******************
+01/19/2024 01:44:12PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:44:12PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:44:12PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:44:12PM - root - INFO - *************** Login test cases Passed ******************
+01/19/2024 01:44:12PM - root - INFO - *************** Login test cases Passed ******************
